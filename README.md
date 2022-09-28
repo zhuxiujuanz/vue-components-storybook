@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-compoments-storybook
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# vue-components-storybook
+>>>>>>> 5a0dd8ab50c4f4b381d2e82dfc702c669cd139ac
